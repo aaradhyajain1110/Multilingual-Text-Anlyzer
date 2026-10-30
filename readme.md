@@ -307,8 +307,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👩‍💻 Author
 
-Riddhima Raj 
+Aaradhya Jain 
 
-* GitHub: github.com/riddhima16/MultiLingual-Text-Analyzer
+* GitHub:https://github.com/aaradhyajain1110/Multilingual-Text-Anlyzer
 
 * This project was developed as a case study in high-fidelity synthetic data generation and multi-layered text analysis.
